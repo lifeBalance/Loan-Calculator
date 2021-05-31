@@ -3,6 +3,6 @@ A basic calculator to compute the monthly payments and total interest of a credi
 
 ## Dependencies:
 
-* [Bootstrap ](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+* [Bootstrap 4.6.0](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 
 (JQuery and Popper.js are dependency of Bootstrap, but other than that, they're not used)
