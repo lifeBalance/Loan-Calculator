@@ -1,7 +1,7 @@
 # Loan Calculator
 A basic calculator to compute the monthly payments and total interest of a credit, given some initial amount and interest rate. (vanilla JavaScript, no JS frameworks).
 
-Click [here](https://lifebalance.github.io/Loan-Calculator/) to see it **live**!
+Click [here](https://lifebalance.github.io/loan-calculator/) to see it **live**!
 
 ![screenshot](screenshot.png)
 
